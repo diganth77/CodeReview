@@ -1,5 +1,5 @@
 This project was submitted as a part of "Advances Statistical Modelling" course. Please find the link to the presentation video submitted as a part of the course. 
-[Presentation Link](https://drive.google.com/drive/folders/1-evUNQA1U-mbpvFjmlN0bBdjSH9VFnkd?usp=sharing) 
+Presentation Link: https://drive.google.com/drive/folders/1-evUNQA1U-mbpvFjmlN0bBdjSH9VFnkd?usp=sharing
 
 The zip file extracted consists of the following files:
 1. Project_Code: This file consists of 
