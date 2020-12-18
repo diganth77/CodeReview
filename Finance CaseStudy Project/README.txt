@@ -1,0 +1,1 @@
+This is a finance project that mainly focuses on forecasting Tesla's deliverables, revenues, gross profit, operating expenses, WACC etc.  
